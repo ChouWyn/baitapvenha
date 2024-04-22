@@ -1,0 +1,22 @@
+.picture{
+    margin: auto;
+    width: 50%;
+}
+.text-price{
+    font-size: 15pt;
+    color: blue;
+}
+.paragraph{
+    width: 50%;
+}
+.button{
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+    padding: 8px;
+}
+.button-01{
+    color: blue;
+    background-color: white;
+    border:solid 2px white;
+}
