@@ -1,0 +1,6 @@
+.card-product{
+    border-radius: 8px;
+    border: 1px solid black;
+    width:fit-content;
+    overflow: hidden;
+}

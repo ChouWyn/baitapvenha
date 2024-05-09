@@ -1,0 +1,35 @@
+.container{
+    background: skyblue;
+    border: 2px solid blue;
+    padding: 12px;
+    width: 50%;
+}
+.paragraph{
+    border: 2px solid pink;
+    border-color: rgb(247, 104, 128);
+    padding: 8px 16px;
+    background-color: pink
+}
+.button{
+    border-radius: 8px;
+    border-color: rgb(240, 52, 83);
+    color: white;
+    padding: 8px 16px;
+    background-color: rgb(250, 99, 124);
+}
+.button-01{
+    border-radius: 8px;
+    border-color: rgb(78, 149, 248);
+    color: white;
+    padding: 8px 16px;
+    background-color: rgb(11, 147, 250);
+}
+.text{
+    position: absolute;
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+    top: -90px;
+    left: -76px;
+    display: block;
+}
