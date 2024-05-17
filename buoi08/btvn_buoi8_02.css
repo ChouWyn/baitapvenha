@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html, body {
+    height: 100%;
+}
+.container {
+    height: 100%;
+}
+.content {
+    height: 80%;
+}
+.header,
+.footer {
+    height: 10%;
+    background-color: rgb(239, 250, 189);
+}
+.body1,
+.body2 {
+    display: flex;
+    height: 20%;
+}
+.intro {
+    background-color: aquamarine;
+}
+.intro,
+.body2 {
+    display: flex;
+    height: 40%;
+}
+.item {
+    border: 1px solid rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+}
+.feature {
+    width: 20%;
+    background-color: pink;
+}
+.img {
+    width: 40%;
+    background-color: papayawhip;
+}
+.login {
+    width: 60%;
+    background-color: papayawhip;
+}
